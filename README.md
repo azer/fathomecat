@@ -22,7 +22,7 @@ You can open as many tabs you'd like and yet not see them.
 It allows you apply some important preferences on any websites. These preferences are:
 
 * **Private Mode:** Keeps the site data (cookies etc) in a private partition, so the site can't profile you.
-* **90s Mode:** Turns off some milennium technology on the website (e.g JavaScript) so you get true 90s experience. Works really nice.
+* **90s Mode:** Turns off some milennium technology we can live without (e.g JavaScript) so you get true 90s experience on the selected website. Works really nice.
 
 Check it out in the gifcast below: 
 
