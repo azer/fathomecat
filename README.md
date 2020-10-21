@@ -9,7 +9,7 @@ Fat Home Cat is a new web browser project;
 * **Paid**, open source with free version for students.
 * Including **encrypted e-mail** address for users (user@fathomecat.com)
 
-See details below, including [Development Status](#development-status).
+See details below, including [Development Status](#development-status). Reach me out via azer@roadbeats.com if you're interested.
 
 ## No Tabbing Bar 🤯
 
@@ -35,4 +35,10 @@ I recorded this gifcast tonight. It's not exactly how Fat Home Cat look like at 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
 
 # Development Status
+
+An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus). I did not continue working on this prototype, realizing that I had to rewrite it. This repository is an attempt to check if there'd be enough support for making it real.
+
+# Support
+
+You can support me on [Patreon](https://www.patreon.com/azerkoculu). 
 
