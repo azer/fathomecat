@@ -36,7 +36,7 @@ I recorded this gifcast tonight. It's not exactly how Fat Home Cat look like at 
 
 # Development Status
 
-An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus). I did not continue working on this prototype, realizing that I had to rewrite it. This repository is an attempt to check if there'd be enough support for making it real.
+An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus). This repository is an attempt to check if there'd be enough support for making it real.
 
 # Support
 
